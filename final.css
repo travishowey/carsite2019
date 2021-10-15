@@ -1,0 +1,95 @@
+#home tr td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#inven tr td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#form2{
+	border-radius: 0px solid black;
+}
+li{
+	list-style-type: none;
+}
+td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#contact {
+	float: left;
+	margin: 20px;
+	text-align: center;
+	border: 1px solid black;
+	width: 47%;
+	height: 350px;
+}
+#loan{
+	float: right;
+	margin: 20px;
+	border: 1px solid black;
+	width: 47%;
+}
+#inst a{
+	font-size: 20px;
+}
+#inst{
+	float: left;
+	margin: 20px;
+	text-align: center;
+	border: 1px solid black;
+	width: 47%;
+	height: 350px;
+}
+#loan tr td{
+	border: 0px solid black;
+	padding: 5px;
+}
+#about{
+	border: none;
+}
+#price{
+	text-align: center;
+}
+#address{
+	float: right;
+	font-size: 20px;
+	padding-right: 10px;
+}
+.container-fluid{
+	float: left;
+	font-size: 30px;
+	text-align: bottom;
+}
+
+#history{
+	width: 47%;
+	margin: 15px;
+	float: left;
+	border: 1px solid black;
+	padding: 10px;
+	padding-top: 0px;
+	text-align: justify;
+	height: 245px;
+}
+#dealership{
+	margin: 15px;
+	float: right;
+	height: 245px;
+}
+#specials{
+	float: clear;
+	border: 1px solid black;
+
+}
+#form{
+	float: right;
+	margin: 20px;
+	text-align: center;
+	border: 1px solid black;
+	width: 47%;
+	height: 350px;
+}
+.container{
+	width: 50%;
+}
